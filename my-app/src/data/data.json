@@ -1,0 +1,74 @@
+{
+  "Header": {
+    "title": "Rebeca Urra",
+    "paragraph": "Welcome"
+  },
+  "About": {
+    "paragraph": "I'm happiest when I'm creating, learning, exploring and thinking about how to make things better.",
+    "Why": [
+      "🟢Versatility when working with data types or tools.",
+      "🟢Fixed problems in syntax and logic of acode",
+      "🟢Good joint and individual programming. o",
+      "🟢Ability to follow instructions and generate resultss"
+    ],
+    "Why2": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Game Match",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Pokemon",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Notes App",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    }
+
+  ],
+  "skills": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing"
+
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor"
+
+    }
+
+  ],
+  "Contact": {
+    "address": "Neuquén, Argentina",
+    "phone": "+54 9 299 503 6040",
+    "github": "https://github.com/Ireby",
+    "portfolio":"",
+    "linkIn":"https://www.linkedin.com/in/rebeca-urra-8225a1187/",
+    "email": "urra.cr.z@gmail.com",
+    "facebook": "facebook.com/",
+    "twitter": "twitter.com/",
+    "youtube": "youtube.com/"
+  }
+
+}
