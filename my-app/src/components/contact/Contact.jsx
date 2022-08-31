@@ -146,7 +146,7 @@ export const Contact = (props) => {
                   </li>
                   <li>
                     <a href={props.data ? props.data.henrytalent : '/'}>
-                    <img className='' alt='github' src='https://assets.soyhenry.com/henry-landing/assets/Henry/logo-white.png' width='35'/>
+                    <img className='' alt='github' src='https://img2.freepng.es/20180414/fle/kisspng-github-computer-icons-logo-encapsulated-postscript-adress-5ad1a257e41948.3542396215236880239343.jpg' width='35'/>
                     </a>
                   </li>
                 </ul>
