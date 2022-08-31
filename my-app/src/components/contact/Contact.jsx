@@ -113,7 +113,7 @@ export const Contact = (props) => {
               <button type='submit' className=''>
              <a width='80' h
                
-               href="https://wa.me/543874620059?text=Hello!%20i%20want%20to%20meet%20 you :)"
+               href="https://wa.me/5492995036040?text=Hello!%20i%20want%20to%20meet%20 you :)"
              > <strong className='fa fa-whatsapp'></strong>Send me a WhatsApp</a>  
                 </button>
             </div>
