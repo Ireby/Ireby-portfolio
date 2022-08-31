@@ -1,15 +1,15 @@
 {
   "Header": {
-    "title": "Rebeca Urra",
-    "paragraph": "Welcome"
+    "title": "Hi, Welcome!",
+    "paragraph": "I'm happy cause you are here!"
   },
   "About": {
     "paragraph": "I'm happiest when I'm creating, learning, exploring and thinking about how to make things better.",
     "Why": [
-      "🟢Versatility when working with data types or tools.",
-      "🟢Fixed problems in syntax and logic of acode",
-      "🟢Good joint and individual programming. o",
-      "🟢Ability to follow instructions and generate resultss"
+      "Versatility when working with data types or tools.",
+      "Fixed problems in syntax and logic of acode",
+      "Good joint and individual programming. o",
+      "Ability to follow instructions and generate resultss"
     ],
     "Why2": [
       "",
@@ -21,24 +21,15 @@
   "Gallery": [
     {
       "title": "Game Match",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "image": "img/gallery/01.jpg",
+      "url":"https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40jbev/gamematch-a6c6eee05d7f4e118d892fb25c4c9cde-signed.apk"
     },
     {
-      "title": "Pokemon",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
-    },
-    {
-      "title": "Notes App",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
-    },
-    {
-      "title": "",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Pokemon Center",
+      "image": "img/gallery/02.png",
+      "url":"https://pokemoncenter.vercel.app/"
     }
+
 
   ],
   "skills": [
@@ -63,7 +54,8 @@
     "address": "Neuquén, Argentina",
     "phone": "+54 9 299 503 6040",
     "github": "https://github.com/Ireby",
-    "portfolio":"",
+    "portfolio":"https://rebecaurra.vercel.app/",
+    "henrytalent":"https://www.talent.soyhenry.com/",
     "linkIn":"https://www.linkedin.com/in/rebeca-urra-8225a1187/",
     "email": "urra.cr.z@gmail.com",
     "facebook": "facebook.com/",
